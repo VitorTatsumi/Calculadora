@@ -1,1 +1,1 @@
-# Calculadora
+Código utilizado para estudo da criação de interface gráfica com Tkinter. Foi utilizado uma calculadora como base de estudos, contendo as principais funcionalidades (soma, subtração, multiplicação, divisão, porcentagem e limpar).
